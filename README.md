@@ -1,4 +1,4 @@
-# Lonely Runner Conjecture
+# My experimental verification of the "Lonely Runner Conjecture"
 
 ## Usage
 
@@ -29,5 +29,7 @@ Running the program with the cheat parameter and the runner velocities above wil
 ## LaTeX Document
 
 [LRC.pdf](./LRC.pdf)
+
+[Old YouTube Video](https://youtu.be/j-YvnLVk9kY)
 
 [LRC Wikipedia](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
