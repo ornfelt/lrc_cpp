@@ -1,0 +1,15 @@
+#
+# LRC
+#
+/.env*
+/docker-compose.override.yml
+!.gitkeep
+*.pydevproject
+.metadata
+tmp/
+*.tmp
+*.swp
+*~.nib
+*.exe
+*.o
+.settings/
