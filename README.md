@@ -15,6 +15,9 @@ make; ./lrc.exe 1,2,3,4,5,6,7,8,9 -c
 
 Using random runner velocities:
 make; ./lrc.exe -r
+
+Using LrcTesting.cpp (instead of Lrc.cpp):
+make; ./lrc.exe -t
 ```
 
 Running the program with the cheat parameter and the runner velocities above will result in a runner NEVER being lonely. This doesn't disprove the conjecture since +1 runner is used, but it exemplifies what is described in the LaTeX document (see link at bottom).
@@ -26,4 +29,5 @@ Running the program with the cheat parameter and the runner velocities above wil
 ## LaTeX Document
 
 [LRC.pdf](./LRC.pdf)
+
 [LRC Wikipedia](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)

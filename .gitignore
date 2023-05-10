@@ -12,4 +12,5 @@ tmp/
 *~.nib
 *.exe
 *.o
+*.docx
 .settings/
