@@ -14,4 +14,4 @@ tmp/
 *.o
 *.docx
 .settings/
-./~$lrc.docx
+~$*
