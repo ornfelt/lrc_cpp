@@ -32,4 +32,6 @@ Running the program with the cheat parameter and the runner velocities above wil
 
 [Old YouTube Video](https://youtu.be/j-YvnLVk9kY)
 
+[Old code](https://github.com/ornfelt/LRC)
+
 [LRC Wikipedia](https://en.wikipedia.org/wiki/Lonely_runner_conjecture)
